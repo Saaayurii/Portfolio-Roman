@@ -65,8 +65,8 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Привет, меня зовут Роман.</span> Я {" "}
-        <span className="font-bold">full-stack разработчик</span> с{" "}
-        <span className="font-bold">3-х лентим</span> опытом работы. Мне нравится создавать <span className="italic">сайты и приложения</span>. <br /> Мой основной инструмент - {" "}
+        <span className="font-bold">разработчик</span> с{" "}
+        <span className="font-bold">Мне нравится создавать <span className="italic">сайты и приложения</span>. <br /> Мой основной инструмент - {" "}
         <span className="underline"> <br /> React (Next.js)</span>.
       </motion.h1>
 
